@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gideon_news/static/css/main.ff73cdbd.css",
+    "main.js": "/gideon_news/static/js/main.d7063557.js",
+    "static/media/webImage.jpg": "/gideon_news/static/media/webImage.241077f0063eb2a75374.jpg",
+    "index.html": "/gideon_news/index.html",
+    "main.ff73cdbd.css.map": "/gideon_news/static/css/main.ff73cdbd.css.map",
+    "main.d7063557.js.map": "/gideon_news/static/js/main.d7063557.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff73cdbd.css",
+    "static/js/main.d7063557.js"
+  ]
+}
